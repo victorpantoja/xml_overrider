@@ -23,7 +23,7 @@ setup(
     author_email="victor.pantoja@gmail.com",
     description="Simple way to override XML values based on based on xpaths",
     long_description='\n\n'.join([
-        read('README.md'),
+        read('README.rst'),
         read('CHANGELOG.rst'),
     ]),
     url='https://github.com/victorpantoja/xml_overrider',
