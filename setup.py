@@ -17,7 +17,7 @@ def read(*parts):
 
 
 setup(
-    name="xml overrider",
+    name="xml_overrider",
     version=__version__,
     author="Victor Pantoja",
     author_email="victor.pantoja@gmail.com",
