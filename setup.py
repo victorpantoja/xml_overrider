@@ -35,7 +35,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'lxml==3.8.0',
-        'pyyaml==3.12',
+        'pyyaml==5.1',
         'docopt == 0.6.2',
     ],
     dependency_links=[
