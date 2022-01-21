@@ -1,6 +1,6 @@
 # Requirements for development
 
-ipython==4.1.2
+ipython==7.16.3
 ipdb
 twine
 
